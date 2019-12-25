@@ -12,7 +12,7 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
 		iframe {
 			frameborder="0";
 			width: 100%;
-			height: 500px;
+			height: 300px;
 			margin-left: auto; 
 		}
 	</style>
