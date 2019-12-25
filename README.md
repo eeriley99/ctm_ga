@@ -10,10 +10,10 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
     <title>Opening Links in an iFrame</title>
 	<style>
 		iframe {
-			frameborder="0";
+			frameborder: 0;
 			width: 100%;
 			height: 500px;
-			align="right";
+			align: right;
 		}
 	</style>
 </head>
