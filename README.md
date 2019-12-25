@@ -3,11 +3,11 @@ Creative Technologies and Media class materials from Greenwich Academy
 
 Link to site: https://eeriley99.github.io/ctm_ga/
 
-Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
+
 
 <html lang="en">
 <head>
-    <title>Opening Links in an iFrame</title>
+    <title>Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html</title>
 	<style>
 		iframe {
 			iframe align: "left";
