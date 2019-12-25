@@ -10,7 +10,7 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
     <title>Opening Links in an iFrame</title>
 	<style>
 		iframe {
-			iframe align="left";
+			iframe align: "left";
 			border-width: 0px;
 			width: 100%;
 			height: 300px;
