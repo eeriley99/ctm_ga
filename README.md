@@ -11,7 +11,7 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
 	<style>
 		iframe {
 			border-width: 0px;
-			width: 100%;
+			width: 300px;
 			height: 300px;
 			style="float:left"
 		}
@@ -21,3 +21,4 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
     <iframe src="https://eeriley99.github.io/ctm_ga/test/index.html" name="myFrame"></iframe>
 </body>
 </html>          
+
