@@ -7,6 +7,7 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
 
 <html lang="en">
 <head>
+	<title>Opening Links in an iFrame</title>
 	<style>
 		iframe {
 			
