@@ -13,7 +13,7 @@ Test bitsy game: https://eeriley99.github.io/ctm_ga/test/index.html
 			border-width: 0px;
 			width: 100%;
 			height: 300px;
-			margin-right: 95px;
+			margin-right: 50%;
 		}
 	</style>
 </head>
