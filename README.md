@@ -1,6 +1,5 @@
 # ctm_ga
 
-<!DOCTYPE html>
 <html>
 	
 <head>
@@ -8,7 +7,7 @@
 </head>
 
 <body>
-<p>Link to site: <a href="eeriley99.github.io/ctm_ga/">eeriley99.github.io/ctm_ga/</a></p>
+<p>Link to site: <a href>eeriley99.github.io/ctm_ga/</a></p>
 <p>Test bitsy game: <a href="eeriley99.github.io/ctm_ga/test/index.html">eeriley99.github.io/ctm_ga/test/index.html</a></p>
 
 	<style>
