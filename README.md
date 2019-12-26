@@ -9,13 +9,13 @@ Creative Technologies and Media class materials from Greenwich Academy
 	<style>
 		iframe {
 			border-width: 0px;
-			width: 300px;
-			height: 300px;
+			width: 400px;
+			height: 400px;
 		}
 	</style>
 	
     <iframe src="https://eeriley99.github.io/ctm_ga/test/index.html" name="myFrame"></iframe>
-<p>Press down arrow to start.</p>
+<p>Press space bar to begin.</p>
 </body>
 </html>          
 
