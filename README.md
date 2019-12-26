@@ -1,14 +1,10 @@
 # ctm_ga
-
+Creative Technologies and Media class materials from Greenwich Academy
 <html>
-	
-<head>
-    <title>Creative Technologies and Media class materials from Greenwich Academy</title>
-</head>
 
 <body>
-<p>Link to site: <a href>eeriley99.github.io/ctm_ga/</a></p>
-<p>Test bitsy game: <a href>eeriley99.github.io/ctm_ga/test/index.html</a></p>
+<p>Link to site: <a href="https://eeriley99.github.io/ctm_ga/">eeriley99.github.io/ctm_ga</a></p>
+<p>Test bitsy game: <a href="https://eeriley99.github.io/ctm_ga/test/index.html">eeriley99.github.io/ctm_ga/test/index.html</a></p>
 
 	<style>
 		iframe {
